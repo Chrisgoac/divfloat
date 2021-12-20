@@ -1,0 +1,52 @@
+.green{
+    background-color: green;
+}
+.light_green{
+    background-color: greenyellow;
+}
+.black{
+    background-color: black;
+}
+.aqua{
+    background-color: aqua;
+}
+
+.clear{
+    clear: both;
+}
+
+#main{
+    height: 700px;
+    width: 600px;
+    margin: 0 auto;
+}
+.m100x200{
+    height: 100px;
+    width: 200px;
+}
+.m200x200{
+    height: 200px;
+    width: 200px;
+}
+.m300x200{
+    height: 300px;
+    width: 200px;
+}
+.m300x400{
+    height: 300px;
+    width: 400px;
+}
+.m100x400{
+    height: 100px;
+    width: 400px;
+}
+.m100x600{
+    height: 100px;
+    width: 600px;
+}
+.left{
+    float: left;
+}
+.right{
+    float: right;
+}

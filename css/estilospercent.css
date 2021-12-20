@@ -1,0 +1,33 @@
+.green{
+    background-color: green;
+}
+.light_green{
+    background-color: greenyellow;
+}
+.black{
+    background-color: black;
+}
+
+#main{
+    height: 600px;
+    width: 600px;
+    margin: 0 auto;
+}
+.m100x200{
+    height: 100px;
+    width: 33.3333333333%;
+}
+.m200x200{
+    height: 200px;
+    width: 33.3333333333%;
+}
+.m100x400{
+    height: 100px;
+    width: 66.6666666666%;
+}
+.left{
+    float: left;
+}
+.right{
+    float: right;
+}
